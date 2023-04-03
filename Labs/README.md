@@ -8,3 +8,5 @@ To run my game all you need to do it direct yourself into the file  " E:\it3038c
 Next open powershell and type "python lab7.py" and the game will launch and allow you to play it. 
 
 You can play and edit a ton of different games like pac man, or connect four. 
+
+https://pypi.org/project/freegames/
